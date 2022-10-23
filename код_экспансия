@@ -1,0 +1,9 @@
+var x,Q: integer;
+begin
+    readln(x);
+    Q := 70;
+    if x>= Q then begin
+   write "опасный угол поворота"
+    end;
+    writeln(x);
+end.
